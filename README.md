@@ -1,2 +1,2 @@
 # liqidsdk-python
-Go language SDK for the Liqid Composable Director
+PYTHON language SDK for the Liqid Composable Director
